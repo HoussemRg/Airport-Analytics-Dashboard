@@ -1,0 +1,14 @@
+data_to_import/customers.csv
+data_to_import/customers.csv
+data_to_import/order_detail.csv
+data_to_import/restaurant_detail.csv
+node_modules/
+datahive/
+pgdata/
+result/
+resultats/
+ui
+wordcount.py
+
+web/airport-analytics-frontend/node_modules
+web/server/node_modules
